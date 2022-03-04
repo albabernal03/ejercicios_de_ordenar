@@ -1,0 +1,1 @@
+from dicotómica import *
