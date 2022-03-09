@@ -5,10 +5,16 @@ inicio=0
 fin=len(t)
 
 class ordenacion_dicotomica:
- def __init__(self,tabla,inicio,fin):
-   self.t= t
-   self.inicio=inicio
-   self.fin=fin
+
+  def __init__(self,tabla,inicio,fin):
+    self.t=t
+    self.inicio=inicio
+    self.fin=fin
+    
+  def ordenar(self):
+    while self.inicio < self.fin:
+      for i in range (self.inicio+1,self.fin):
+        
 
 
    
