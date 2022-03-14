@@ -10,5 +10,12 @@ def explorar():
   inicio = 0
   seg = []
 
-  
+  while inicio < longitud - 1:
+    if t(inicio) < t(inicio+1):
+      inicio = inicio + 1
+    else:
+      di = inicio
+      if t[di] > t[di+1]:
+        fi = di+1
+        print(di,fi)
   
