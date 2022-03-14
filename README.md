@@ -16,7 +16,7 @@ Este es el link del [repositorio](https://github.com/albabernal03/ejercicios_de_
 
 ## Ejercicio 1:
 
-´´´
+```
 
 #Algoritmo dicotómica:
 #Apartado 1
@@ -59,13 +59,7 @@ class ordenacion_dicotomica_2:
       self.t2.remove(valor_min)
 
     print(self.t2)
-
-
-   
-  
-
-
-´´´
+```
 
 ***
 
