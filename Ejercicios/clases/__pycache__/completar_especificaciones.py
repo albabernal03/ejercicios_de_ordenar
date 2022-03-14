@@ -6,4 +6,9 @@ def explorar():
   
   t.append(0)
   t.append(0)
+  longitud = len(t)
+  inicio = 0
+  seg = []
+
+  
   
