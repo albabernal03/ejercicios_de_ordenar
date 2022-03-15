@@ -65,10 +65,6 @@ class ordenacion_dicotomica_2:
 
 
 ## Ejercicio 2:
-
-***
-
-## Ejercicio 3:
 ```
 class Tareas:
   def __init__(self, lista_tareas):
@@ -82,6 +78,13 @@ class Tareas:
 lista= [8,13,5,6,13]
 bubbleSort(lista)
 print(lista)
+
+```
+***
+
+## Ejercicio 3:
+```
+
 
 
 
