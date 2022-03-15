@@ -39,7 +39,7 @@ class ordenacion_dicotomica:
           self.t[i] = x
     print(self.t)      
 ```
-
+```
 #Apartado 2
 
 class ordenacion_dicotomica_2:
