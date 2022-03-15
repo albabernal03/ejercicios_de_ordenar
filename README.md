@@ -62,7 +62,11 @@ class ordenacion_dicotomica_2:
 ```
 
 ***
+**UML**
 
+![ejercicio1](https://user-images.githubusercontent.com/91721875/158390552-ac8423ac-7339-4e6a-abdb-f13f059c73ed.PNG)
+
+***
 
 ## Ejercicio 2:
 ```
