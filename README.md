@@ -128,3 +128,9 @@ def explorar():
 
 ```
 ***
+
+**UML**
+
+![ejercicio3](https://user-images.githubusercontent.com/91721875/158392745-97382653-2106-4e82-aab5-47b134e1806b.PNG)
+
+***
