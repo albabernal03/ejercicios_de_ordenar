@@ -8,9 +8,9 @@ Este es el link del [repositorio](https://github.com/albabernal03/ejercicios_de_
 
 ***
 ## Indice
-1.[Ejercicio 1](#id1)
-2.[Ejercicio 2](#id2)
-3.[Ejercicio 3](#id3)
+1. [Ejercicio 1](#id1)
+2. [Ejercicio 2](#id2)
+3. [Ejercicio 3](#id3)
 
 ***
 
