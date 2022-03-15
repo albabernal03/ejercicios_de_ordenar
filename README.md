@@ -8,13 +8,13 @@ Este es el link del [repositorio](https://github.com/albabernal03/ejercicios_de_
 
 ***
 ## Indice
-1.
-2.
-3.
+1.[Ejercicio 1](#id1)
+2.[Ejercicio 2](#id2)
+3.[Ejercicio 3](#id3)
 
 ***
 
-## Ejercicio 1:
+## Ejercicio 1:<a name="id1"></a>
 
 ```
 
@@ -68,7 +68,7 @@ class ordenacion_dicotomica_2:
 
 ***
 
-## Ejercicio 2:
+## Ejercicio 2:<a name="id2"></a>
 ```
 class Tareas:
   def __init__(self, lista_tareas):
@@ -91,7 +91,7 @@ print(lista)
 
 ***
 
-## Ejercicio 3:
+## Ejercicio 3:<a name="id3"></a>
 ```
 #Algoritmo explorar
 t= [15,65,76,19,33,45,84,66,68,34,67,54]
