@@ -30,4 +30,6 @@ def explorar():
     print(seg)
     inicio = fi+2
     print(inicio)
+
+    
   
