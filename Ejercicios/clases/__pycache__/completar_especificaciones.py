@@ -18,4 +18,16 @@ def explorar():
       if t[di] > t[di+1]:
         fi = di+1
         print(di,fi)
+        while t[di] > t[fi]:
+          if t[di] > t[fi+1] and fi < longitud-2:
+            fi = fi+1
+          else:
+            break
+        print(di,fi)
+      else:
+        fi = di+1
+      seg.append((di,fi))
+    print(seg)
+    inicio = fi+2
+    print(inicio)
   
