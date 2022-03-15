@@ -85,6 +85,11 @@ print(lista)
 
 ```
 ***
+**UML**
+
+![ejercicio2](https://user-images.githubusercontent.com/91721875/158391870-d6a9d165-84d7-4717-b27b-36e6963948fe.PNG)
+
+***
 
 ## Ejercicio 3:
 ```
