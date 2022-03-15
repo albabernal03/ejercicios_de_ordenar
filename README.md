@@ -117,9 +117,5 @@ def explorar():
     inicio = fi+2
     print(inicio)
 
-
-
-
-
 ```
 ***
